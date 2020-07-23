@@ -8,7 +8,7 @@
 
 ---
 name: corpuswordlist
-version: "2020.07.09"
+version: "20200723"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -985,7 +985,7 @@ use_preset_vocabulary: false
 其实	qi shi	1301
 伟大	wei da	1301
 里面	li mian	1299
-这儿	zhe r	1299
+这儿	zhe er	1299
 找到	zhao dao	1297
 商业	shang ye	1297
 提	ti	1295
@@ -1368,7 +1368,7 @@ use_preset_vocabulary: false
 事件	shi jian	904
 包	bao	903
 推动	tui dong	902
-一会儿	yi hui r	900
+一会儿	yi hui er	900
 第一次	di yi ci	899
 真实	zhen shi	899
 痛苦	tong ku	899
@@ -1682,7 +1682,7 @@ use_preset_vocabulary: false
 推	tui	731
 趋势	qu shi	731
 烟	yin	730
-哪儿	na r	730
+哪儿	na er	730
 进去	jin qu	730
 正式	zheng shi	730
 烧	shao	729
@@ -1797,7 +1797,7 @@ use_preset_vocabulary: false
 翻	fan	682
 争取	zheng qu	681
 环节	huan jie	681
-那儿	na r	681
+那儿	na er	681
 冲突	chong tu	680
 和平	he ping	680
 身边	shen bian	680
@@ -2503,7 +2503,7 @@ use_preset_vocabulary: false
 也就是说	ye jiu shi shuo	470
 战	zhan	469
 现有	xian you	469
-基督教	j du jiao	469
+基督教	ji du jiao	469
 水中	shui zhong	469
 营	ying	469
 算是	suan shi	469
@@ -5804,7 +5804,7 @@ use_preset_vocabulary: false
 皮鞋	pi xie	171
 氧化物	yang hua wu	171
 光照	guang zhao	171
-一块儿	yi kuai r	171
+一块儿	yi kuai er	171
 协定	xie ding	171
 代表大会	dai biao da hui	171
 文人	wen ren	171
@@ -5865,7 +5865,7 @@ use_preset_vocabulary: false
 民族资产阶级	min zu zi chan jie ji	169
 视野	shi ye	169
 识别	shi bie	169
-会儿	hui r	169
+会儿	hui er	169
 普遍性	pu bian xing	169
 为啥	wei sha	169
 呼唤	hu huan	169
@@ -6749,7 +6749,7 @@ use_preset_vocabulary: false
 物化	wu hua	140
 当即	dang ji	140
 搏斗	bo dou	140
-活儿	huo r	140
+活儿	huo er	140
 兔子	tu zi	140
 不就	bu jiu	140
 分歧	fen qi	140
@@ -7257,7 +7257,7 @@ use_preset_vocabulary: false
 沙滩	sha tan	128
 解脱	jie tuo	128
 酋长	qiu zhang	128
-味儿	wei r	128
+味儿	wei er	128
 外力	wai li	127
 顾虑	gu lv	127
 不耐烦	bu nai fan	127
@@ -7660,7 +7660,7 @@ use_preset_vocabulary: false
 衔	xian	119
 徒	tu	119
 卓越	zhuo yue	119
-个儿	ge r	119
+个儿	ge er	119
 棚	peng	119
 各界	ge jie	119
 同化	tong hua	119
@@ -9902,7 +9902,7 @@ use_preset_vocabulary: false
 伦理学	lun li xue	85
 航线	hang xian	85
 道歉	dao qian	85
-头儿	tou r	85
+头儿	tou er	85
 小猪	xiao zhu	85
 中药	zhong yao	85
 明星	ming xing	85
@@ -10412,7 +10412,7 @@ use_preset_vocabulary: false
 起步	qi bu	80
 紫外线	zi wai xian	80
 谓语	wei yu	80
-当儿	dang r	80
+当儿	dang er	80
 终止	zhong zhi	80
 白人	bai ren	80
 吉林	ji lin	80
@@ -11685,7 +11685,7 @@ use_preset_vocabulary: false
 难关	nan guan	69
 名牌	ming pai	69
 乡里	xiang li	69
-今儿	jin r	69
+今儿	jin er	69
 相符	xiang fu	69
 装满	zhuang man	69
 开端	kai duan	69
@@ -13627,7 +13627,7 @@ use_preset_vocabulary: false
 产后	chan hou	56
 悲壮	bei zhuang	56
 钝	dun	56
-自个儿	zi ge r	56
+自个儿	zi ge er	56
 驻军	zhu jun	56
 苍	cang	56
 五四运动	wu si yun dong	56
@@ -13988,7 +13988,7 @@ use_preset_vocabulary: false
 技	ji	54
 门诊	men zhen	54
 盈亏	ying kui	54
-老头儿	lao tou r	54
+老头儿	lao tou er	54
 愈加	yu jia	54
 飘荡	piao dang	54
 吴刚	wu gang	54
