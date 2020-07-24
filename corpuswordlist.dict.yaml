@@ -6,6 +6,8 @@
 # Rime dictionary
 # encoding: utf-8
 
+#20200723:修正了j,r拼音的问题
+
 ---
 name: corpuswordlist
 version: "20200723"
