@@ -6,11 +6,11 @@
 # Rime dictionary
 # encoding: utf-8
 
+#20200724:修正"烟"的读音
 ---
 name: corpuscharacterlist
-version: "2020.07.10"
+version: "20200710"
 sort: by_weight
-use_preset_vocabulary: false
 ...
 
 的	de	759834
@@ -857,7 +857,7 @@ use_preset_vocabulary: false
 销	xiao	3116
 印	yin	3114
 免	mian	3101
-烟	yin	3098
+烟	yan	3098
 跳	tiao	3092
 香	xiang	3090
 纸	zhi	3074
