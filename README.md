@@ -4,7 +4,7 @@ corpuscharacterlist.dict.yaml:现代汉语语料库汉字频率表
 
 corpuswordlist.dict.yaml:现代汉语语料库词语频率表
 
-        数据来源:语料库在线 www.cncorpus.org ,在以上词频词库的基础上添加了注音.语料规模:2000万字,只列入出现次数大于5次的字或出现次数大于50次的词.
+  数据来源:语料库在线 www.cncorpus.org ,在以上词频词库的基础上添加了注音.语料规模:2000万字,只列入出现次数大于5次的字或出现次数大于50次的词.
 
 sogouw.dict.yaml,搜狗互联网词库(SogouW)
 
