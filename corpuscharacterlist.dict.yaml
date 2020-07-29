@@ -6,7 +6,13 @@
 # Rime dictionary
 # encoding: utf-8
 
-#20200724:修正"烟"的读音
+#20200724
+#烟-yin->yan
+#勒-lei->le
+#20200725
+#长	chang	31680
+#2020727
+#重	chong	25987
 ---
 name: corpuscharacterlist
 version: "20200710"
@@ -105,6 +111,7 @@ sort: by_weight
 等	deng	32364
 力	li	32108
 本	ben	31740
+长	chang	31680
 长	zhang	31680
 心	xin	31417
 把	ba	31134
@@ -131,6 +138,7 @@ sort: by_weight
 意	yi	26999
 三	san	26687
 只	zhi	26560
+重	chong	25987
 重	zhong	25987
 点	dian	25848
 与	yu	25294
@@ -1459,7 +1467,7 @@ sort: by_weight
 凉	liang	1189
 杜	du	1188
 凭	ping	1187
-勒	lei	1186
+勒	le	1186
 爆	bao	1186
 递	di	1186
 鞋	xie	1186
