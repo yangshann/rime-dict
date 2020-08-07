@@ -6,13 +6,18 @@
 # Rime dictionary
 # encoding: utf-8
 
+#该统计数据并没有列出多音字各个读音的频率,此处仅列出多音字较为常用的读音
+#较原表删除了数字、字母、符号等,仅保留汉字
+
 #20200724
 #烟-yin->yan
 #勒-lei->le
-#20200725
-#长	chang	31680
-#2020727
-#重	chong	25987
+#长	chang
+#重	chong
+#谁	shei
+#抹	mo
+#ve->ue
+#○	yuan,Ｏ	yuan
 ---
 name: corpuscharacterlist
 version: "20200710"
@@ -112,7 +117,6 @@ sort: by_weight
 力	li	32108
 本	ben	31740
 长	chang	31680
-长	zhang	31680
 心	xin	31417
 把	ba	31134
 部	bu	31050
@@ -139,7 +143,6 @@ sort: by_weight
 三	san	26687
 只	zhi	26560
 重	chong	25987
-重	zhong	25987
 点	dian	25848
 与	yu	25294
 使	shi	25286
@@ -682,7 +685,7 @@ sort: by_weight
 试	shi	4623
 绝	jue	4603
 洋	yang	4600
-谁	shui	4592
+谁	shei	4592
 继	ji	4567
 止	zhi	4560
 喜	xi	4550
@@ -790,7 +793,7 @@ sort: by_weight
 药	yao	3740
 承	cheng	3739
 岁	sui	3711
-略	lve	3673
+略	lue	3673
 穿	chuan	3651
 牛	niu	3640
 室	shi	3635
@@ -1873,7 +1876,7 @@ sort: by_weight
 廷	ting	652
 铃	ling	650
 胎	tai	650
-抹	ma	648
+抹	mo	648
 吵	chao	648
 肢	zhi	647
 拾	shi	647
@@ -2036,7 +2039,7 @@ sort: by_weight
 愉	yu	521
 矮	ai	520
 嘉	jia	520
-掠	lve	519
+掠	lue	519
 泄	xie	519
 叉	cha	519
 渴	ke	517
@@ -2206,7 +2209,6 @@ sort: by_weight
 爽	shuang	430
 鹅	e	430
 晰	xi	430
-０	428
 巢	chao	428
 绒	rong	428
 疫	yi	428
@@ -2291,7 +2293,7 @@ sort: by_weight
 汁	zhi	386
 戈	ge	386
 愚	yu	385
-○	385
+○	yuan	385
 秧	yang	385
 抒	shu	384
 弊	bi	384
@@ -2773,7 +2775,6 @@ sort: by_weight
 烃	ting	210
 犬	quan	210
 喀	ka	209
-		209
 皂	zao	209
 蔓	man	209
 蕊	rui	209
@@ -2923,7 +2924,7 @@ sort: by_weight
 钥	yue	173
 嘟	du	173
 蠢	chun	173
-Ｏ	172
+Ｏ	yuan	172
 蛤	ge	172
 馈	kui	172
 咨	zi	172
@@ -3093,7 +3094,7 @@ sort: by_weight
 捂	wu	139
 痹	bi	138
 灸	jiu	138
-虐	nve	138
+虐	nue	138
 芙	fu	138
 鹊	que	137
 簿	bu	137
@@ -3109,7 +3110,7 @@ sort: by_weight
 蹬	deng	136
 窥	kui	135
 窖	jiao	135
-疟	nve	135
+疟	nue	135
 呱	gua	135
 湃	pai	135
 淳	chun	135
@@ -3120,7 +3121,6 @@ sort: by_weight
 慷	kang	135
 轩	xuan	134
 焉	yan	134
-１	134
 芸	yun	133
 琳	lin	133
 恺	kai	133
@@ -3278,7 +3278,6 @@ sort: by_weight
 庵	an	111
 骇	hai	111
 骡	luo	111
-５	111
 汝	ru	110
 喽	lou	110
 栅	zha	110
@@ -3424,7 +3423,6 @@ sort: by_weight
 瑁	mao	94
 瘪	bie	94
 玳	dai	94
-２	94
 膳	shan	94
 骏	jun	94
 伺	si	93
@@ -3491,7 +3489,6 @@ sort: by_weight
 塾	shu	88
 奕	yi	87
 镀	du	87
-３	87
 攫	jue	87
 侃	kan	87
 琵	pi	87
@@ -3525,7 +3522,6 @@ sort: by_weight
 痪	huan	84
 赘	zhui	83
 唬	hu	83
-４	83
 宦	huan	83
 憧	chong	83
 蜗	wo	83
@@ -3598,7 +3594,6 @@ sort: by_weight
 踉	liang	76
 俨	yan	76
 瘟	wen	76
-—	76
 缦	man	76
 菠	bo	76
 缉	ji	76
@@ -3893,7 +3888,6 @@ sort: by_weight
 跚	shan	54
 匡	kuang	54
 坳	ao	54
-８	54
 诃	he	54
 晖	hui	54
 楣	mei	54
@@ -3903,7 +3897,6 @@ sort: by_weight
 邬	wu	54
 掸	dan	54
 娩	mian	54
-７	54
 锗	zhe	54
 憩	qi	54
 匍	pu	54
@@ -3942,7 +3935,6 @@ sort: by_weight
 谏	jian	52
 癫	dian	52
 佬	lao	52
-（	52
 噎	ye	52
 唆	suo	51
 袒	tan	51
@@ -3999,7 +3991,6 @@ sort: by_weight
 镊	nie	48
 楔	xie	48
 噘	jue	48
-６	48
 嗐	hai	48
 厩	jiu	48
 肽	tai	48
@@ -4056,7 +4047,6 @@ sort: by_weight
 阈	yu	45
 僰	bo	45
 堰	yan	45
-n	45
 诽	fei	45
 醚	mi	45
 皎	jiao	45
@@ -4147,7 +4137,6 @@ n	45
 馄	hun	40
 淼	miao	40
 臊	sao	40
-v	40
 刍	chu	40
 雳	li	40
 啬	se	40
@@ -4230,7 +4219,6 @@ v	40
 竑	hong	37
 桧	hui	36
 毽	jian	36
-.	liao	36
 馁	nei	36
 羧	suo	36
 箍	gu	36
@@ -4263,7 +4251,6 @@ v	40
 唢	suo	35
 氖	nai	35
 髭	zi	35
-?	bo	35
 谒	ye	35
 裱	biao	35
 辕	yuan	35
@@ -4288,7 +4275,6 @@ v	40
 榔	lang	34
 皙	xi	34
 谆	zhun	34
-９	34
 熹	xi	34
 喙	hui	34
 酗	xu	34
@@ -4314,7 +4300,6 @@ v	40
 暄	xuan	33
 藐	miao	33
 沅	yuan	33
-）	33
 濮	pu	33
 隽	juan	33
 鸾	luan	33
@@ -4555,7 +4540,6 @@ v	40
 旌	jing	23
 谲	jue	23
 饬	chi	23
-a	23
 鸨	bao	23
 陲	chui	23
 洵	xun	23
@@ -4614,7 +4598,6 @@ a	23
 嗟	jie	22
 缈	miao	22
 骷	ku	22
-d	bo	22
 崮	gu	21
 稷	ji	21
 邕	yong	21
@@ -4711,7 +4694,6 @@ d	bo	22
 矽	xi	19
 瓒	zan	19
 孳	zi	19
-，	19
 璐	lu	19
 翦	jian	19
 杵	chu	19
@@ -4747,7 +4729,6 @@ d	bo	22
 咝	si	18
 崑	kun	18
 濯	zhuo	18
-×	18
 褓	bao	18
 襁	qiang	18
 峒	dong	18
@@ -4804,7 +4785,6 @@ d	bo	22
 棣	di	17
 迺	nai	17
 湟	huang	17
-、	17
 籼	xian	17
 畿	ji	17
 稗	bai	17
@@ -4840,7 +4820,6 @@ d	bo	22
 唁	yan	16
 栀	zhi	16
 璨	can	16
-q	16
 玷	dian	16
 畈	fan	16
 烩	hui	16
@@ -4899,7 +4878,6 @@ q	16
 孱	can	15
 璠	fan	15
 倜	ti	15
-Ｋ	15
 葺	qi	15
 螫	shi	15
 飙	biao	15
@@ -5006,10 +4984,8 @@ q	16
 窨	xun	13
 痱	fei	13
 贲	ben	13
-─	13
 胼	pian	13
 鲂	fang	13
-p	13
 铌	ni	13
 菽	shu	13
 谗	chan	13
@@ -5225,7 +5201,6 @@ p	13
 铋	bi	10
 铍	pi	10
 躅	zhu	10
-u	10
 锴	kai	10
 芮	rui	9
 薮	sou	9
@@ -5306,7 +5281,6 @@ u	10
 缂	ke	9
 錾	zan	9
 诳	kuang	9
-r	bo	9
 鲶	nian	8
 鸹	gua	8
 慓	piao	8
@@ -5359,7 +5333,6 @@ r	bo	9
 褙	bei	8
 篦	bi	8
 呎	chi	8
-c	8
 棰	chui	8
 阕	que	8
 阆	lang	8
@@ -5582,11 +5555,8 @@ t	8
 筌	quan	6
 箐	qing	6
 秭	zi	6
-B	bo	6
 汜	si	6
 勣	ji	6
-s	6
-m	6
 菪	dang	6
 莒	ju	6
 餍	yan	6

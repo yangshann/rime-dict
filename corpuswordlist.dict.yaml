@@ -7,12 +7,12 @@
 # encoding: utf-8
 
 #20200723:修正了j,r拼音的问题
+#20200804:ve->ue
 
 ---
 name: corpuswordlist
 version: "20200723"
 sort: by_weight
-use_preset_vocabulary: false
 ...
 
 的	de	744863
@@ -1342,7 +1342,7 @@ use_preset_vocabulary: false
 跟着	gen zhe	930
 分钟	fen zhong	930
 科学家	ke xue jia	930
-战略	zhan lve	928
+战略	zhan lue	928
 肯定	ken ding	927
 原始	yuan shi	926
 当前	dang qian	926
@@ -1864,7 +1864,7 @@ use_preset_vocabulary: false
 爱情	ai qing	658
 发明	fa ming	658
 效率	xiao lv	657
-侵略	qin lve	656
+侵略	qin lue	656
 空	kong	656
 知	zhi	656
 心中	xin zhong	656
@@ -3125,7 +3125,7 @@ use_preset_vocabulary: false
 发行	fa xing	360
 服装	fu zhuang	360
 对应	dui ying	360
-略	lve	360
+略	lue	360
 爆炸	bao zha	360
 粉	fen	359
 轴	zhou	359
@@ -4525,7 +4525,7 @@ use_preset_vocabulary: false
 雄	xiong	229
 伤害	shang hai	229
 人性	ren xing	229
-掠夺	lve duo	229
+掠夺	lue duo	229
 营业	ying ye	229
 截	jie	229
 也好	ye hao	229
@@ -4678,7 +4678,7 @@ use_preset_vocabulary: false
 打断	da duan	220
 河北	he bei	220
 凹	wa	220
-忽略	hu lve	220
+忽略	hu lue	220
 渴望	ke wang	220
 皱	zhou	220
 天才	tian cai	220
@@ -4698,7 +4698,7 @@ use_preset_vocabulary: false
 推开	tui kai	219
 窝	wo	219
 酒精	jiu jing	219
-策略	ce lve	219
+策略	ce lue	219
 水果	shui guo	219
 残	can	219
 封建主义	feng jian zhu yi	219
@@ -5221,7 +5221,7 @@ use_preset_vocabulary: false
 愁	chou	195
 发展中国家	fa zhan zhong guo jia	195
 赛	sai	195
-侵略者	qin lve zhe	195
+侵略者	qin lue zhe	195
 麻	ma	195
 准则	zhun ze	195
 微弱	wei ruo	195
@@ -7268,7 +7268,7 @@ use_preset_vocabulary: false
 大纲	da gang	127
 馒头	man tou	127
 预计	yu ji	127
-掠过	lve guo	127
+掠过	lue guo	127
 问世	wen shi	127
 伸长	shen chang	127
 书写	shu xie	127
@@ -9561,7 +9561,7 @@ use_preset_vocabulary: false
 材	cai	89
 足迹	zu ji	89
 孤	gu	89
-侵略军	qin lve jun	89
+侵略军	qin lue jun	89
 并列	bing lie	89
 华丽	hua li	89
 玩艺	wan yi	89
@@ -10213,7 +10213,7 @@ use_preset_vocabulary: false
 坏死	huai si	82
 领事	ling shi	82
 领取	ling qu	82
-虐待	nve dai	82
+虐待	nue dai	82
 图像	tu xiang	82
 而今	er jin	82
 鄂	e	82
@@ -10542,7 +10542,7 @@ use_preset_vocabulary: false
 分枝	fen zhi	79
 编导	bian dao	79
 瞧不起	qiao bu qi	79
-伽利略	jia li lve	79
+伽利略	jia li lue	79
 提案	ti an	79
 收复	shou fu	79
 於	yu	79
@@ -10796,7 +10796,7 @@ use_preset_vocabulary: false
 优异	you yi	76
 小心翼翼	xiao xin yi yi	76
 扁担	bian dan	76
-掠	lve	76
+掠	lue	76
 小汽车	xiao qi che	76
 资助	zi zhu	76
 与其说	yu qi shuo	76
@@ -11276,7 +11276,7 @@ use_preset_vocabulary: false
 下跌	xia die	72
 晴	qing	72
 赌	du	72
-略有	lve you	72
+略有	lue you	72
 吼	hou	72
 裙	qun	72
 行政机关	xing zheng ji guan	72
@@ -11643,7 +11643,7 @@ use_preset_vocabulary: false
 欺侮	qi wu	69
 捅	tong	69
 划时代	hua shi dai	69
-疟疾	nve ji	69
+疟疾	nue ji	69
 奋勇	fen yong	69
 练兵	lian bing	69
 要好	yao hao	69
@@ -11951,7 +11951,7 @@ use_preset_vocabulary: false
 破碎	po sui	67
 中队	zhong dui	67
 邮局	you ju	67
-领略	ling lve	67
+领略	ling lue	67
 边远	bian yuan	67
 分级	fen ji	67
 辐	fu	67
@@ -11960,7 +11960,7 @@ use_preset_vocabulary: false
 增减	zeng jian	67
 简明	jian ming	67
 让步	rang bu	67
-粗略	cu lve	67
+粗略	cu lue	67
 蹲下	dun xia	67
 骂人	ma ren	67
 磨损	mo sun	67
@@ -13050,7 +13050,7 @@ use_preset_vocabulary: false
 航	hang	59
 控诉	kong su	59
 建起	jian qi	59
-省略	sheng lve	59
+省略	sheng lue	59
 机床	ji chuang	59
 谈谈	tan tan	59
 看中	kan zhong	59
@@ -13445,7 +13445,7 @@ use_preset_vocabulary: false
 北京大学	bei jing da xue	57
 北海	bei hai	57
 食性	shi xing	57
-谋略	mou lve	57
+谋略	mou lue	57
 可耻	ke chi	57
 迟早	chi zao	57
 忽地	hu di	57
@@ -14640,7 +14640,7 @@ use_preset_vocabulary: false
 热忱	re chen	51
 张春桥	zhang chun qiao	51
 其时	qi shi	51
-略带	lve dai	51
+略带	lue dai	51
 褐	he	51
 劳工	lao gong	51
 探险	tan xian	51
