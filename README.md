@@ -26,7 +26,7 @@ polyphones.dict.yaml:用以解决汉字频率表中的多音字注音的问题<b
 乘	sheng
 
 symbols.dict.yaml:部分数学符号及希腊字母<br>
-与汉字输入相同,输入对应编码后符号将出现在候选框<br>
+ 拼音输出特殊符号(如输入alpha 即可打出 α)<br>
 
 示例:
 ✓	gou
