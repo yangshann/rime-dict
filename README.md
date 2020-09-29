@@ -12,3 +12,10 @@ sogouw.dict.yaml:互联网词库(SogouW)<br>
 polyphones.dict.yaml:用以解决汉字频率表中的多音字注音的问题<br>
 因汉字频率表中并无多音字不同读音下的频率,故此表无汉字出现频率<br>
 感谢项目[PolyphoneDisambiguation](https://github.com/hjzin/PolyphoneDisambiguation)提供的多音字
+
+部分示例:<br>
+我们	wo men	26823<br>
+又	you	25715<br>
+一个	yi ge	24807<br>
+与	yu	23823<br>
+从	cong	23749
