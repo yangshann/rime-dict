@@ -1,4 +1,4 @@
-RIME简体中文词库(词频+注音)
+RIME简体中文词库(词频+注音)+特殊符号(希腊字母,部分Emoji表情及数学符号)
 =
 corpuscharacterlist.dict.yaml:现代汉语语料库汉字频率表<br>语料规模:2000万字,只列入出现次数大于5次的字。<br>
 汉字频率表没给出多音字在不同读音下的频率,以上注音选取多音字较常见读音<br>
@@ -25,17 +25,22 @@ polyphones.dict.yaml:用以解决汉字频率表中的多音字注音的问题<b
 乘	cheng
 乘	sheng
 
-symbols.dict.yaml:部分数学符号及希腊字母<br>
- 拼音输出特殊符号(如输入alpha 即可打出 α)<br>
+symbols.dict.yaml:部分数学符号、Emoji表情及希腊字母<br>
+ 拼音输出特殊符号(如☑,α,Ⅷ,⑧,😀等)<br>
+ Emoji来源:[fcitx-emoji](https://github.com/levinit/fcitx-emoji)<br>
 
 示例:
 ✓	gou
 ✖	cha
 ∫	jifen
 ∞	wuxian
-∪	bing
-∩	jiao
 α	alpha
 β	beta
 γ	gamma
 δ	delta
+😂	xiaoku
+😃	haha
+😆	haha
+柒	qi
+Ⅶ	qi
+⑦	qi
