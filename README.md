@@ -27,7 +27,7 @@ polyphones.dict.yaml:用以解决汉字频率表中的多音字注音的问题<b
 
 symbols.dict.yaml:部分数学符号、Emoji表情及希腊字母<br>
  拼音输出特殊符号(如☑,α,Ⅷ,⑧,😀等)<br>
- Emoji来源:[fcitx-emoji](https://github.com/levinit/fcitx-emoji)<br>
+ Emoji数据来源:[fcitx-emoji](https://github.com/levinit/fcitx-emoji)<br>
 
 示例:<br>
 ✓	gou<br>
