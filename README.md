@@ -10,37 +10,33 @@ sogouw.dict.yaml:互联网词库(SogouW)<br>
 数据来源：[搜狗实验室](http://www.sogou.com/labs/resource/w.php)<br>
 
 示例:
-我们	wo men	26823
-一个	yi ge	24807
-与	yu	23823
-从	cong	23749
+我们	wo men	26823<br>
+一个	yi ge	24807<br>
+与	yu	23823<br>
+从	cong	23749<br>
 
 polyphones.dict.yaml:用以解决汉字频率表中的多音字注音的问题<br>
 因汉字频率表中并无多音字不同读音下的频率,故此表无汉字出现频率<br>
 数据来源:[PolyphoneDisambiguation](https://github.com/hjzin/PolyphoneDisambiguation)<br>
 
 示例:
-乐	le
-乐	yue
-乘	cheng
-乘	sheng
+乐	le<br>
+乐	yue<br>
+乘	cheng<br>
+乘	sheng<br>
 
 symbols.dict.yaml:部分数学符号、Emoji表情及希腊字母<br>
  拼音输出特殊符号(如☑,α,Ⅷ,⑧,😀等)<br>
  Emoji来源:[fcitx-emoji](https://github.com/levinit/fcitx-emoji)<br>
 
 示例:
-✓	gou
-✖	cha
-∫	jifen
-∞	wuxian
-α	alpha
-β	beta
-γ	gamma
-δ	delta
-😂	xiaoku
-😃	haha
-😆	haha
-柒	qi
-Ⅶ	qi
-⑦	qi
+✓	gou<br>
+✖	cha<br>
+∫	jifen<br>
+∞	wuxian<br>
+α	alpha<br>
+β	beta<br>
+😂	xiaoku<br>
+😃	haha<br>
+Ⅶ	qi<br>
+⑦	qi<br>
